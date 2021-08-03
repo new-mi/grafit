@@ -1,0 +1,15 @@
+.bar-bottom {
+  padding: 0 24px;
+  border-top: 1px solid var(--primary-base-2);
+  background-color: var(--pure-white);
+
+  &__link {
+    margin-right: 8px;
+    color: var(--primary-base-3);
+    text-decoration: none;
+
+    &.is-active {
+      color: var(--primary-base-5);
+    }
+  }
+}

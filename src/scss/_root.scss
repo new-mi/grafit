@@ -1,0 +1,15 @@
+:root {
+    --primary-h: 0;
+    --primary-s: 0%;
+    --primary-l: 45%;
+    --primary-a: 1;
+    --pure-white: #fff;
+    --color-text: hsla(0, 0%, 20%, 1);
+
+    --primary-base-1: hsla(var(--primary-h), var(--primary-s), 95%, 1);
+    --primary-base-2: hsla(var(--primary-h), var(--primary-s), 90%, 1);
+    --primary-base-3: hsla(var(--primary-h), var(--primary-s), 70%, 1);
+    --primary-base-4: hsla(var(--primary-h), var(--primary-s), 50%, 1);
+    --primary-base-5: hsla(var(--primary-h), var(--primary-s), 30%, 1);
+    --primary-base-6: hsla(var(--primary-h), var(--primary-s), 20%, 1);
+}
